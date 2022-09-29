@@ -1,1 +1,1 @@
-From alpine:3.15.1
+From christinadarawshe/cbi-test:1.0
